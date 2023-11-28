@@ -1,7 +1,7 @@
 
 
 const Card = (data) => {
-    console.log("ne geliyo", data)
+    // console.log("ne geliyo", data)
     return(
         <div className="cards">
             <div className="title">
